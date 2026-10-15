@@ -1,6 +1,5 @@
 # contributions_webapp
 
-[![shōmei](https://img.shields.io/badge/generated_by-shōmei-blueviolet?style=for-the-badge)](https://github.com/petarran/shomei)
 [![commits](https://img.shields.io/badge/commits-46-green?style=for-the-badge)](https://github.com/bharatsurana/contributions_webapp)
 
 > **proof of work** - this repository mirrors verified contributions without exposing proprietary code
@@ -25,31 +24,3 @@ i've been shipping code at `web-clients`, but all those contributions were tied 
 ## why does this exist?
 
 lots of developers use separate GitHubs for work. when you leave a company or just want to showcase your activity, your personal profile makes it look like you took years off. this is especially annoying when job hunting.
-
-**shōmei** fixes this safely and ethically:
-- no proprietary code is exposed
-- no commit messages from work
-- no file names or structure
-- just timestamps proving you were actually working
-
-## want to do this too?
-
-check out [**shōmei**](https://github.com/petarran/shomei) - it's dead simple:
-
-```bash
-pip install shomei
-cd ~/work/your-repo
-shomei
-```
-
-that's it! your contribution graph will thank you!
-
----
-
-<div align="center">
-
-**[⭐ star shōmei on GitHub](https://github.com/petarran/shomei)** if this helped you!
-
-*generated with [shōmei](https://github.com/petarran/shomei) - proof of your work*
-
-</div>
